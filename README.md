@@ -6,3 +6,5 @@
 ### Entre em contato 📬
 
 kauajesus.estudos@gmail.com
+
+![](https://media1.tenor.com/m/1cL5fzcjpaQAAAAd/laptop.gif)
