@@ -43,4 +43,3 @@ Estudante de **Ciência da Computação** no 2º semestre pela **UNG** (Guarulho
 ### 📫 Contato
 
 - **E-mail:** contatokauajesus@gmail.com
-- **LinkedIn:** [Seu Nome no LinkedIn](https://linkedin.com/in/seu-usuario)
