@@ -27,18 +27,6 @@ Estudante de **Ciência da Computação** no 2º semestre pela **UNG** (Guarulho
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/kaosjss">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=kaosjss&show_icons=true&theme=tokyonight&disable_animations=true&locale=pt-br" />
-  </a>
-  <a href="https://github.com/kaosjss">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaosjss&layout=compact&theme=tokyonight&locale=pt-br" />
-  </a>
-</div>
-
----
 
 ### 📫 Contato
 
