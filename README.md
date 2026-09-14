@@ -1,10 +1,46 @@
-### BOAS-VINDAS AO MEU PERFIL 🥇
- Kauã Jesus 18y
--
-- Estou estudando de forma autodidata
-- Dando meus primeiros paasos na area de programação na linguagem javascript
-### Entre em contato 📬
+### Olá, eu sou o Kauã Jesus! 👋
 
-kauajesus.estudos@gmail.com
+Estudante de **Ciência da Computação** no 2º semestre pela **UNG** (Guarulhos) e entusiasta de tecnologia. Atualmente estou focado em construir uma base sólida de programação através de **projetos pessoais em Java e Python**, além de explorar bancos de dados, desenvolvimento web, inteligência artificial e computação em nuvem — atualmente me preparando para tirar a certificação de **Oracle Cloud Infrastructure (OCI)**.
 
-![](https://media1.tenor.com/m/1cL5fzcjpaQAAAAd/laptop.gif)
+---
+
+### 🛠️ Linguagens, Banco de Dados e Ferramentas
+
+<div style="display: inline_block">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg">
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="OCI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+ 
+</div>
+
+---
+
+### 📚 O que estou focado no momento
+- **Desenvolvimento Backend:** Aprofundando os estudos em Java e desenvolvendo projetos pessoais práticos.
+- **Fundamentos de Computação:** Estruturas de Dados e Algoritmos pela faculdade (Ciência da Computação - UNG).
+- **Cloud Computing:** Estudando e me preparando para tirar a certificação oficial de **Oracle Cloud Infrastructure (OCI)**.
+- **Dados & IA:** Modelagem SQL, conceitos de web com HTML/CSS e estudos práticos com RAG (Retrieval-Augmented Generation).
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <a href="https://github.com/kaosjss">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=kaosjss&show_icons=true&theme=tokyonight&disable_animations=true&locale=pt-br" />
+  </a>
+  <a href="https://github.com/kaosjss">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaosjss&layout=compact&theme=tokyonight&locale=pt-br" />
+  </a>
+</div>
+
+---
+
+### 📫 Contato
+
+- **E-mail:** contatokauajesus@gmail.com
+- **LinkedIn:** [Seu Nome no LinkedIn](https://linkedin.com/in/seu-usuario)
